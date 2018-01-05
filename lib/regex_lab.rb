@@ -26,4 +26,3 @@ end
   # !!phone.match(/\b(\d[0-9]*{10})\b/)
   # !!phone.match(/(\d{10}*[0-9])/)
   # !!phone.match(/( *?[0-9a-zA-Z] *?){10,}/)
-end
